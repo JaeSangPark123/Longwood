@@ -7,7 +7,8 @@ gcc proj0.c
 ./a.out
 Input start word ( 100 character limits ): go  // insert the start word for word ladder
 Input end word ( 100 character limits ): on // insert the end word for word ladder
-Input file name( 100 character limits ):words.txt // insert the filename of word dictionary
+Input file name( 100 character limits ):words.txt // insert the filename of word dictionary There is a local dictionary "words.txt"
+//If you don't have no dictionary, then just insert words.txt
 
 All of letter in start word and end word are modified as lower letter
 

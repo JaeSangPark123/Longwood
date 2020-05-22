@@ -1,5 +1,5 @@
 How to run this program
-
+Since it uses the ANSI escape code for linux shell, it only works at linux.
 g++ proj1.cpp
 ./a.out
 
@@ -18,7 +18,7 @@ typedef struct _pawn{
 }Pawn;
 It has int x, int y for position and int* valid for valid movement.
 
-		10
+	10
       1  2  3
   11  4  P  6  12
       7  8  9
